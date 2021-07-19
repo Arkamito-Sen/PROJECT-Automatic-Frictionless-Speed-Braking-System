@@ -1,6 +1,6 @@
 # **PROJECT-Automatic-Frictionless-Speed-Braking-System**
 ![Assembly1](https://user-images.githubusercontent.com/84036074/126173889-d3bae0cd-2192-4a90-b1a8-101bd319ac98.jpg)  
-Automatic frictionless Speed Braking System , rendered Image of the Assembly design in CATIA v5  
+^ Automatic frictionless Speed Braking System , rendered Image of the Assembly design in CATIA v5  
 
 
 
@@ -8,7 +8,7 @@ Automatic frictionless Speed Braking System , rendered Image of the Assembly des
 ![image](https://user-images.githubusercontent.com/84036074/126174811-cdf75ae6-f173-49d0-ae61-8bdfcd59d61a.png)
 ![image](https://user-images.githubusercontent.com/84036074/126174973-de77f681-8709-42d5-b393-5e5cc5e80036.png)
 ![image](https://user-images.githubusercontent.com/84036074/126175138-d3e49134-b678-4c16-bfed-76f06537fb9e.png)  
-Rendered Images of the Assembly design in CATIA v5  
+^ Rendered Images of the Assembly design in CATIA v5  
 
 
 
