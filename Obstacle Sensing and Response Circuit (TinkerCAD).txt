@@ -1,3 +1,4 @@
+//Code for the Obstacle Sensing and Response Mechanism.
 #include<Servo.h>
 #include<LiquidCrystal.h>
 
