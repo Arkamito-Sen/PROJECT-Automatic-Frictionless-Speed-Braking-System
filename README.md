@@ -4,11 +4,16 @@
 ![image](https://user-images.githubusercontent.com/84036074/126174811-cdf75ae6-f173-49d0-ae61-8bdfcd59d61a.png)
 ![image](https://user-images.githubusercontent.com/84036074/126174973-de77f681-8709-42d5-b393-5e5cc5e80036.png)
 ![image](https://user-images.githubusercontent.com/84036074/126175138-d3e49134-b678-4c16-bfed-76f06537fb9e.png)
-![image](https://user-images.githubusercontent.com/84036074/126175329-bfa89c08-9289-4fd3-8998-cf44e653de3c.png)
-![image](https://user-images.githubusercontent.com/84036074/126175567-e35b4b08-6443-4a18-8332-cd64731d3610.png)
-![image](https://user-images.githubusercontent.com/84036074/126175732-dc7f888f-1d77-40c3-9c4d-aad2b48a1d15.png)
-![image](https://user-images.githubusercontent.com/84036074/126176029-8d654a47-140b-4700-93c2-b5a96258e925.png)
-![image](https://user-images.githubusercontent.com/84036074/126176050-d0391a85-52d1-4b2c-b614-b39c43708242.png)
+![image](https://user-images.githubusercontent.com/84036074/126175329-bfa89c08-9289-4fd3-8998-cf44e653de3c.png)  
+
+![image](https://user-images.githubusercontent.com/84036074/126175567-e35b4b08-6443-4a18-8332-cd64731d3610.png)  
+Labelling of the different parts of the Assembly when viewed from bottom.   
+![image](https://user-images.githubusercontent.com/84036074/126175732-dc7f888f-1d77-40c3-9c4d-aad2b48a1d15.png)  
+Labelling of the different parts of the Assembly when viewed from top.  
+![image](https://user-images.githubusercontent.com/84036074/126176029-8d654a47-140b-4700-93c2-b5a96258e925.png)  
+Catia v5 Assembly design : Transmission Mode ON (indicated by the crown gear meshed properly, and the braking disc away from the the electromagnetic jaws)  
+![image](https://user-images.githubusercontent.com/84036074/126176050-d0391a85-52d1-4b2c-b614-b39c43708242.png)  
+Catia v5 Assembly design : Brake Mode ON (indicated by the crown gear disengaged, and the braking disc in between the electromagnetic jaws)  
 ![image](https://user-images.githubusercontent.com/84036074/126176181-81270758-77a6-4658-ac22-101b10352122.png)  
 Catia v5 Assembly design of the Automatic-Frictionless-Speed Braking System  
 ![image](https://user-images.githubusercontent.com/84036074/126176213-704155d7-65a1-4418-a935-7608030fc7e2.png)  
