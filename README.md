@@ -15,7 +15,8 @@
 ![image](https://user-images.githubusercontent.com/84036074/126179339-7fd1ea8d-c875-4587-b6b6-c4b120554d1e.png)
 ![image](https://user-images.githubusercontent.com/84036074/126180709-1a9cb6da-6cec-4718-aa81-a34be7c4893f.png)
 ![image](https://user-images.githubusercontent.com/84036074/126176276-8c08c117-9439-48ba-ac41-940f8068972b.png)
-![image](https://user-images.githubusercontent.com/84036074/126176335-76cd29de-9f6d-431e-bc08-0cd23235280f.png)
+![image](https://user-images.githubusercontent.com/84036074/126176335-76cd29de-9f6d-431e-bc08-0cd23235280f.png)  
+From the simulation we can see that when the obstacle is beyond the range the LCD screen displays “Transmission Mode”, the green LED glows, and notice the Servo motor horn position. 
 ![image](https://user-images.githubusercontent.com/84036074/126176541-a8bc022b-0e72-4766-a451-08cc184052ee.png)  
 From the simulation we can see that when the obstacle is within the range the LCD screen displays “Brake Mode ON”, the red LED glows, and notice the Servo motor horn position which has changed from the initial position (turning ON the Brake Mechanism)
 ![image](https://user-images.githubusercontent.com/84036074/126176735-05bd4f4d-e182-419a-a6dd-2e491740590f.png)  
