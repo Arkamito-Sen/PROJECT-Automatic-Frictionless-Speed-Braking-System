@@ -13,7 +13,8 @@
 ![image](https://user-images.githubusercontent.com/84036074/126176213-704155d7-65a1-4418-a935-7608030fc7e2.png)
 ![image](https://user-images.githubusercontent.com/84036074/126178372-c6b929c5-1287-4244-ac36-c261d814ac5e.png)
 ![image](https://user-images.githubusercontent.com/84036074/126179339-7fd1ea8d-c875-4587-b6b6-c4b120554d1e.png)
-![image](https://user-images.githubusercontent.com/84036074/126180709-1a9cb6da-6cec-4718-aa81-a34be7c4893f.png)
+![image](https://user-images.githubusercontent.com/84036074/126180709-1a9cb6da-6cec-4718-aa81-a34be7c4893f.png)  
+Rendered Image of Differential with the wheel axle and connecting rod  
 ![image](https://user-images.githubusercontent.com/84036074/126176276-8c08c117-9439-48ba-ac41-940f8068972b.png)  
 Obstacle Detection and Response Circuit(designed in TinkerCAD) :  
 ![image](https://user-images.githubusercontent.com/84036074/126176335-76cd29de-9f6d-431e-bc08-0cd23235280f.png)  
