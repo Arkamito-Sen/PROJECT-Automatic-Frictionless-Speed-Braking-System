@@ -4,6 +4,12 @@
 
 
 
+## Description:  
+The Project is about developing an idea of using an Automatic-Frictionless Speed Braking System, as an additional Mechanism to Normal manual brakes in modern day vehicles. This type of Automatic-Frictionless Systems would help to get rid of several hazardous situations that might arise while driving.  
+
+- I have done the complete Assembly Model of the entire Design, and Rendered it too, in Catia v5.
+- I have done the circuit design of the Sensing and Response system and then simulated it, in TinkerCAD.
+
 ![image](https://user-images.githubusercontent.com/84036074/126174335-b201632d-1455-4a03-9543-12bddea32a82.png)
 ![image](https://user-images.githubusercontent.com/84036074/126174811-cdf75ae6-f173-49d0-ae61-8bdfcd59d61a.png)
 ![image](https://user-images.githubusercontent.com/84036074/126174973-de77f681-8709-42d5-b393-5e5cc5e80036.png)
