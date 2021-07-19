@@ -18,4 +18,4 @@
 ![image](https://user-images.githubusercontent.com/84036074/126176335-76cd29de-9f6d-431e-bc08-0cd23235280f.png)
 ![image](https://user-images.githubusercontent.com/84036074/126176541-a8bc022b-0e72-4766-a451-08cc184052ee.png)
 ![image](https://user-images.githubusercontent.com/84036074/126176735-05bd4f4d-e182-419a-a6dd-2e491740590f.png)
-  LCD Screen displaying distance of the obstacle from the vehicle.  
+   &nsbp LCD Screen displaying distance of the obstacle from the vehicle.  
