@@ -5,10 +5,17 @@
 
 
 ## Description:  
+
 The Project is about developing an idea of using an Automatic-Frictionless Speed Braking System, as an additional Mechanism to Normal manual brakes in modern day vehicles. This type of Automatic-Frictionless Systems would help to get rid of several hazardous situations that might arise while driving.  
 
 - I have done the complete Assembly Model of the entire Design, and Rendered it too, in Catia v5.
 - I have done the circuit design of the Sensing and Response system and then simulated it, in TinkerCAD.
+
+### Prerequisite and Installation:  
+
+The product has been designed in Catia v5r21, and so all the part designs is saved as Catia's native file format(.CATPart), and the Assembly design saved as (.CATProduct).  
+So to Open these Files, one must have Catia v5 pre-installed in his/her PC.  
+If anyone has CAD softwares other than Catia v5r21, for them I have provided the (.stp) file of the Product design, so one can easily open and view the model by opening the (.stp) files in his/her CAD software.  
 
 ![image](https://user-images.githubusercontent.com/84036074/126174335-b201632d-1455-4a03-9543-12bddea32a82.png)
 ![image](https://user-images.githubusercontent.com/84036074/126174811-cdf75ae6-f173-49d0-ae61-8bdfcd59d61a.png)
