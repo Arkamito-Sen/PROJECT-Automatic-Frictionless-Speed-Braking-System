@@ -11,7 +11,7 @@ The Project is about developing an idea of using an Automatic-Frictionless Speed
 - I have done the complete Assembly Model of the entire Design, and Rendered it too, in Catia v5.
 - I have done the circuit design of the Sensing and Response system and then simulated it, in TinkerCAD.
 
-### Prerequisite and Installation:  
+## Prerequisite and Installation:  
 
 -The product has been designed in Catia v5r21, and so all the part designs is saved as Catia's native file format(.CATPart), and the Assembly design saved as (.CATProduct).  
 So to Open these Files, one must have Catia v5 pre-installed in his/her PC.  
