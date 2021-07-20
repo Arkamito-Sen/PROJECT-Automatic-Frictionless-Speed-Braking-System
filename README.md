@@ -24,6 +24,8 @@ In the rapidly changing world, the speed has become an important factor in human
 The Automatic Frictionless Braking System will serve as a major step to keep up with the pace of human life, with both speed and safety.   
 -This type of Braking Mechanism will help to overcome various problem, that the people faces using the modern day manual brakes(details of the project written in the .PDF file attatched).  
 
+
+
 ![image](https://user-images.githubusercontent.com/84036074/126174335-b201632d-1455-4a03-9543-12bddea32a82.png)
 ![image](https://user-images.githubusercontent.com/84036074/126174811-cdf75ae6-f173-49d0-ae61-8bdfcd59d61a.png)
 ![image](https://user-images.githubusercontent.com/84036074/126174973-de77f681-8709-42d5-b393-5e5cc5e80036.png)
@@ -45,6 +47,8 @@ The Automatic Frictionless Braking System will serve as a major step to keep up 
 ![image](https://user-images.githubusercontent.com/84036074/126175732-dc7f888f-1d77-40c3-9c4d-aad2b48a1d15.png)  
 ^ Labelling of the different parts of the Assembly when viewed from top. 
 
+
+# **Images of the CAD model designed and rendered in CATIA v5R21, and the circuitry designed in TinkerCAD.**  
 
 
 ![image](https://user-images.githubusercontent.com/84036074/126176029-8d654a47-140b-4700-93c2-b5a96258e925.png)  
