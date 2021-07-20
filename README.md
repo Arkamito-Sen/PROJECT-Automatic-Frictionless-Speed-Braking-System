@@ -22,7 +22,7 @@ So to Open these Files, one must have Catia v5 pre-installed in his/her PC.
 
 In the rapidly changing world, the speed has become an important factor in human’s life. Everyone wants to get fast as much as possible. In the fast speed world, there are two perspectives, one is keeping speed and another is to maintain safety mediums as well. So keeping speed is quite easy for a person and in case of safety mediums, there must be a lot of attention.  
 The Automatic Frictionless Braking System will serve as a major step to keep up with the pace of human life, with both speed and safety.   
--This type of Braking Mechanism will help to overcome various problem, that the people faces using the modern day manual brakes(details of the project written in the .PDF file attatched).  
+- This type of Braking Mechanism will help to overcome various problem, that the people faces using the modern day manual brakes(details of the project written in the .PDF file attatched).  
 
 
 
