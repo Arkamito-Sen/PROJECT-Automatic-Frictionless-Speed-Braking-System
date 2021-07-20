@@ -28,7 +28,7 @@ The Automatic Frictionless Braking System will serve as a major step to keep up 
 
 
 
-# **Images of the CAD model designed and rendered in CATIA v5R21.**  
+# **Images of the CAD model designed and rendered in CATIA v5R21:**  
 
 
 
@@ -90,6 +90,7 @@ The Automatic Frictionless Braking System will serve as a major step to keep up 
 
 
 
+#**ELectronic circuit Design, Coding, and Simulation in TinkerCAD: **  
 ![image](https://user-images.githubusercontent.com/84036074/126176276-8c08c117-9439-48ba-ac41-940f8068972b.png)  
 ^ Obstacle Detection and Response Circuit(designed in TinkerCAD) :  
 
