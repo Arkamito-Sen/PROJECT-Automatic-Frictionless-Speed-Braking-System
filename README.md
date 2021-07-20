@@ -13,9 +13,10 @@ The Project is about developing an idea of using an Automatic-Frictionless Speed
 
 ### Prerequisite and Installation:  
 
-The product has been designed in Catia v5r21, and so all the part designs is saved as Catia's native file format(.CATPart), and the Assembly design saved as (.CATProduct).  
+-The product has been designed in Catia v5r21, and so all the part designs is saved as Catia's native file format(.CATPart), and the Assembly design saved as (.CATProduct).  
 So to Open these Files, one must have Catia v5 pre-installed in his/her PC.  
-If anyone has CAD softwares other than Catia v5r21, for them I have provided the (.stp) file of the Product design, so one can easily open and view the model by opening the (.stp) files in his/her CAD software.  
+
+-If anyone has CAD softwares other than Catia v5r21, for them I have provided the (.stp) file of the Product design, so one can easily open and view the model by opening the (.stp) files in his/her CAD software.  
 
 ![image](https://user-images.githubusercontent.com/84036074/126174335-b201632d-1455-4a03-9543-12bddea32a82.png)
 ![image](https://user-images.githubusercontent.com/84036074/126174811-cdf75ae6-f173-49d0-ae61-8bdfcd59d61a.png)
